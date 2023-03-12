@@ -1,4 +1,0 @@
-// 1. Invite guests
-// 2. Announce topic
-// 3. Tell Easter story
-// 4. Give out some gifts 
